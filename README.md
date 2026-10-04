@@ -2,6 +2,11 @@
 
 Research-informed multiclass classification of Swahili news articles for the ALU **NLP and Language Technologies – Formative Assignment 2**.
 
+## Project Links
+
+- **Presentation Video:** https://tapiwanashe6.github.io/swahili-news-classification-video/
+- **Team Contribution Tracker / Task Sheet:** https://docs.google.com/spreadsheets/d/1ENX5s_sZHLJMOKqv6cFNqGy3HKu3enUHfjWHi_13qjk/edit?gid=0#gid=0
+
 ## Research question
 
 **How effectively can different lexical, recurrent, convolutional, and Transformer-based approaches classify Swahili news articles, and what do their errors reveal about the strengths and limitations of sequential modelling for this dataset?**
@@ -52,7 +57,7 @@ XLM-R achieved the strongest held-out test performance. The largest improvement 
 
 ## Repository structure
 
-- `notebooks/formative_2_final_polished.ipynb` — complete end-to-end notebook with EDA, preprocessing, experiments, evaluation and error analysis
+- `formative_2.ipynb` — complete end-to-end notebook with EDA, preprocessing, experiments, evaluation and error analysis
 - `requirements.txt` — main Python dependencies used in the project
 - `.gitignore` — excludes large local data/model artifacts and temporary files
 
