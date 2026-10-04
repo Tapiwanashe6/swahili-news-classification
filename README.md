@@ -45,7 +45,7 @@ XLM-R achieved the strongest held-out test performance. The largest improvement 
 
 | Member | Main responsibility | Model responsibility |
 |---|---|---|
-| Hugues Munezero | Dataset loading, understanding, cleaning and EDA | TF-IDF + Logistic Regression |
+| Munezero Hugues | Dataset loading, understanding, cleaning and EDA | TF-IDF + Logistic Regression |
 | Mahe Digne | Text preprocessing, tokenization/representations and train/validation/test preparation | Linear SVM |
 | Tapiwanashe Gift Marufu | Related-work research, model-choice justification and evaluation setup | BiLSTM and XLM-R |
 | Milka Keza Isingizwe | Results comparison, evaluation, error analysis, conclusions and final integration | 1D CNN |
