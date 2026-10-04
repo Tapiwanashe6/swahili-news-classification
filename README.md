@@ -4,8 +4,8 @@ Research-informed multiclass classification of Swahili news articles for the ALU
 
 ## Project Links
 
-- **Presentation Video:** https://tapiwanashe6.github.io/swahili-news-classification-video/
-- **Team Contribution Tracker / Task Sheet:** https://docs.google.com/spreadsheets/d/1ENX5s_sZHLJMOKqv6cFNqGy3HKu3enUHfjWHi_13qjk/edit?gid=0#gid=0
+- [Presentation Video](https://tapiwanashe6.github.io/swahili-news-classification-video/)
+- [Team Contribution Tracker / Task Sheet](https://docs.google.com/spreadsheets/d/1ENX5s_sZHLJMOKqv6cFNqGy3HKu3enUHfjWHi_13qjk/edit?gid=0#gid=0)
 
 ## Research question
 
